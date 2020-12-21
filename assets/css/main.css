@@ -4142,3 +4142,26 @@ body.is-touch #banner {
 #content a{
     font: bold;
 }
+
+
+#Contact_address p{
+    text-align: center;
+    margin:0;
+}
+
+#Contact_address{
+    margin-top:2em;
+    margin-bottom:2em;
+}
+
+#SendMail_button{
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    margin-bottom:1.5em;
+}
+
+#Contact_infos h4{
+    text-align: center;
+    /*padding: 0;*/
+}
